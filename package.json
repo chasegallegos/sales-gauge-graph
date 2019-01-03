@@ -18,7 +18,8 @@
   },
   "dependencies": {
     "@types/c3": "^0.6.2",
-    "c3": "^0.6.12"
+    "c3": "^0.6.12",
+    "localforage": "^1.7.3"
   },
   "devDependencies": {
     "@stencil/core": "~0.15.2"

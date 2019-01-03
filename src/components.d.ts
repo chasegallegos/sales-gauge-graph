@@ -13,10 +13,10 @@ import '@stencil/core';
 export namespace Components {
 
   interface UserGoalsContainer {
-    'title': string;
+    'name': string;
   }
   interface UserGoalsContainerAttributes extends StencilHTMLAttributes {
-    'title'?: string;
+    'name'?: string;
   }
 
   interface UserGoalsForm {}
